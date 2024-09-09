@@ -16,7 +16,7 @@
         "title":"Podcast",
         "provider":"rss",
         "arguments":[
-          "http://feeds.nature.com/nature/podcast/current"
+          "https://www.intouch.org/listen/podcast/today-on-radio"
         ]
       },
       
