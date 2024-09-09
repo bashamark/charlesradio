@@ -6,34 +6,25 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Recent",
-        "provider":"wordpress",
+        "title":"Radio Stream",
+        "provider":"radio",
         "arguments":[
-          "en.blog.wordpress.com"
+          "https://23113.live.streamtheworld.com/ITRN.mp3"
         ]
       },
       {
-        "title":"Themes",
-        "provider":"wordpress",
+        "title":"Podcast",
+        "provider":"rss",
         "arguments":[
-          "en.blog.wordpress.com",
-          "themes"
+          "http://feeds.nature.com/nature/podcast/current"
         ]
       },
+      
       {
-        "title":"Security",
-        "provider":"wordpress",
+        "title":"WebView",
+        "provider":"webview",
         "arguments":[
-          "en.blog.wordpress.com",
-          "security"
-        ]
-      },
-      {
-        "title":"Events",
-        "provider":"wordpress",
-        "arguments":[
-          "en.blog.wordpress.com",
-          "events"
+          "http://www.google.com"
         ]
       }
     ]
