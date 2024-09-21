@@ -11,10 +11,10 @@
             },
 
             {
-                "title": "MCF SERMONS",
-                "provider": "webview",
+               "title": "Eternal Life tv",
+                "provider": "stream",
                 "arguments": [
-                    "https://mcfsermons.256cloud.com/"
+                    "https://live-tv.mfc-streaming-service.online/hls/orion_west.m3u8"
                 ]
             },
             
