@@ -9,6 +9,15 @@
                     "https://streams.radio.co/s79fbbb432/listen"
                 ]
             },
+
+            {
+                "title": "MCF SERMONS",
+                "provider": "webview",
+                "arguments": [
+                    "https://mcfsermons.256cloud.com/"
+                ]
+            },
+            
             {
                 "title": "Audio Sermons",
                 "provider": "rss",
