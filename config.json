@@ -22,7 +22,7 @@
                 "title": "Audio Sermons",
                 "provider": "webview",
                 "arguments": [
-                    "https://mcfsermons.256cloud.com/"
+                    "https://podbay.fm/p/mcf-radio-sermons"
                 ]
             }
         ],
