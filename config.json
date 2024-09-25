@@ -14,7 +14,7 @@
                "title": "Eternal Life tv",
                 "provider": "webview",
                 "arguments": [
-                    https://mcfsermons.256cloud.com/mcf-tv/"
+                    "https://mcfsermons.256cloud.com/mcf-tv/"
                 ]
             },
             
