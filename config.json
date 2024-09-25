@@ -20,9 +20,9 @@
             
             {
                 "title": "Audio Sermons",
-                "provider": "rss",
+                "provider": "webview",
                 "arguments": [
-                    "https://anchor.fm/s/f9c5246c/podcast/rss"
+                    "https://mcfsermons.256cloud.com/"
                 ]
             }
         ],
