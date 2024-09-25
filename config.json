@@ -19,7 +19,7 @@
             },
             
             {
-                "title": "Audio Sermons",
+                "title": "Audio podcast",
                 "provider": "webview",
                 "arguments": [
                     "https://podbay.fm/p/mcf-radio-sermons"
