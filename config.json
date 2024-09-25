@@ -12,9 +12,9 @@
 
             {
                "title": "Eternal Life tv",
-                "provider": "stream",
+                "provider": "webview",
                 "arguments": [
-                    "https://live-tv.mfc-streaming-service.online/hls/orion_west.m3u8"
+                    "https://mcftv.online/"
                 ]
             },
             
